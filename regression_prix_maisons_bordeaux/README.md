@@ -23,7 +23,7 @@
   <a href="https://github.com/akdavid/AI_projects/tree/main/regression_prix_maisons_bordeaux">
     <img src="images/bordeaux.jpg" alt="Logo" width="415.425" height="266.025">
   </a>
-  <h3 align="center">Régression pour estimer le prix d'une maison à Bordeaux</h3>
+  <h3 align="center">Regression to estimate the price of a house in Bordeaux</h3>
 
   <p align="center">
     In this project we use different machine learning models to estimate the price of a house in Bordeaux (France).
