@@ -20,7 +20,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/akdavid/AI_projects">
+  <a href="https://github.com/akdavid/AI_projects/tree/main/regression_prix_maisons_bordeaux">
     <img src="images/bordeaux.jpg" alt="Logo" width="415.425" height="266.025">
   </a>
   <h3 align="center">Régression pour estimer le prix d'une maison à Bordeaux</h3>
@@ -114,7 +114,7 @@ This project have been built using the following frameworks and libraries:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-You can get this project by downloading the directory using [download-directory](https://download-directory.github.io) or [DownGit](https://minhaskamal.github.io/DownGit) for example.
+You can get this project by downloading the [directory](https://github.com/akdavid/AI_projects/tree/main/regression_prix_maisons_bordeaux) using [download-directory](https://download-directory.github.io) or [DownGit](https://minhaskamal.github.io/DownGit) for example.
 
 In tjis directory there is an _environment.yml_ file that you can use to create the appropriate conda environment. You thus need to install [miniconda](https://docs.conda.io/en/latest/miniconda.html) if you don't have it.
 
