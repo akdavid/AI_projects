@@ -116,14 +116,14 @@ This project have been built using the following frameworks and libraries:
 
 You can get this project by downloading the [directory](https://github.com/akdavid/AI_projects/tree/main/regression_prix_maisons_bordeaux) using [download-directory](https://download-directory.github.io) or [DownGit](https://minhaskamal.github.io/DownGit) for example.
 
-In tjis directory there is an _environment.yml_ file that you can use to create the appropriate conda environment. You thus need to install [miniconda](https://docs.conda.io/en/latest/miniconda.html) if you don't have it.
+In this directory there is an _environment.yml_ file that you can use to create the appropriate conda environment. If so, you need to install [miniconda](https://docs.conda.io/en/latest/miniconda.html) if you don't have it.
 
-To create a conda environment from the _environment.yml_ file you have to `cd` in the project's directory and the use the following:
+To create a conda environment from the _environment.yml_ file you have to `cd` in the project's directory and then use the following:
 ```console 
 conda env create -f environment.yml
 ```
 
-Finally, activate the environment following the console prompt and run `jupyter lab` to use the Notebook.
+Finally, activate the environment with `conda activate reg-prix-maisons` prompt and run `jupyter lab` to use the Notebook.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
