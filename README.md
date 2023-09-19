@@ -84,7 +84,7 @@ The projects presented in this repo have been built using the following framewor
 
 The different projects are listed below.
 
-- Dense Neural Network (DNN) to estimate the price of a house in Bordeaux: [regression_prix_maisons_bordeaux](https://github.com/othneildrew/Best-README-Template/issues)
+- Dense Neural Network (DNN) to estimate the price of a house in Bordeaux: [regression_prix_maisons_bordeaux](https://github.com/akdavid/AI_projects/tree/main/regression_prix_maisons_bordeaux)
     - Data exploration and visualization with Pandas, Seaborn, and Plotly
     - Data preparation for the machine learning models
     - DNN model with Keras
