@@ -21,7 +21,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/akdavid/AI_projects">
-    <img src="images/logo_AI_projects.png" alt="Logo" width="251" height="177">
+    <img src="images/logo_AI_projects_background.png" alt="Logo" width="251" height="177">
   </a>
 
   <h3 align="center">AI Projects</h3>
