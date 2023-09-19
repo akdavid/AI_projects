@@ -73,7 +73,7 @@ In addition to the price, the dataset also provides a wealth of other informatio
  - Retrieve and clean the data
  - Explore and visualize the data
  - Prepare the data for our machine learning models
- - Build a 'DNN' model with Keras
+ - Building a 'DNN' model with Keras
    - Train and save the model
    - Restore the saved model
    - Evaluate the model
@@ -82,7 +82,7 @@ In addition to the price, the dataset also provides a wealth of other informatio
    - Training the model
    - Evaluate model
    - Make predictions
- - Building a Random Forest model with sklearn
+ - Building a 'Random Forest' model with sklearn
    - Training the model
    - Evaluating the model
    - Making predictions
