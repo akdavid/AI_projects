@@ -1,0 +1,17 @@
+name: reg-prix-maisons
+channels:
+    - pytorch
+    - conda-forge
+dependencies:
+    - python=3.9
+    - pip
+    - pytorch 
+    - torchvision
+    - pip:
+      - tensorflow
+      - Scikit-learn 
+      - Matplotlib 
+      - plotly 
+      - seaborn 
+      - Pandas 
+      - Jupyterlab 
