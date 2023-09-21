@@ -123,7 +123,7 @@ To create a conda environment from the _environment.yml_ file you have to `cd` i
 conda env create -f environment.yml
 ```
 
-Finally, activate the environment with `conda activate reg-prix-maisons` prompt and run `jupyter lab` to use the Notebook.
+Finally, activate the environment with `conda activate reg-prix-maisons` and run `jupyter lab` to use the Notebook.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
