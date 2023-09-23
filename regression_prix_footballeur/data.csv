@@ -1,0 +1,501 @@
+Rang,Joueur,Poste,Age,Valeur,Buts_2021,Passes_2021,Minutes_2021,Buts_2022,Passes_2022,Minutes_2022,Buts_total,Passes_total,Minutes_total
+1,Erling Haaland,Avant-Centre,23,180.0,29,8,2388,52,9,4131,189,45,16189
+2,Kylian Mbappé,Avant-Centre,24,180.0,39,26,3903,41,10,3564,244,116,24452
+3,Vinicius Junior,Ailier Gauche,23,150.0,22,20,4272,23,21,4759,73,69,18064
+4,Bukayo Saka,Ailier Droit,21,120.0,12,7,3353,15,11,3744,61,58,17186
+5,Victor Osimhen,Avant-Centre,24,120.0,18,6,2310,31,5,3021,97,24,13467
+6,Phil Foden,Ailier Gauche,23,110.0,14,11,3184,15,8,2660,81,54,16048
+7,Rodrygo,Ailier Droit,22,100.0,9,10,2436,19,11,3851,53,38,13376
+8,Rafael Leão,Ailier Gauche,24,90.0,14,12,3201,16,15,3487,66,43,13546
+9,Harry Kane,Avant-Centre,30,90.0,27,10,4250,32,5,4302,307,80,39732
+10,Khvicha Kvaratskhelia,Ailier Gauche,22,85.0,10,7,2430,14,17,3238,36,41,10720
+11,Lautaro Martínez,Avant-Centre,25,85.0,25,4,3292,28,11,4117,129,42,19897
+12,Gabriel Martinelli,Ailier Gauche,22,80.0,6,7,2327,15,6,3440,33,20,8231
+13,Randal Kolo Muani,Avant-Centre,24,80.0,13,7,3402,23,17,3633,63,42,14356
+14,Christopher Nkunku,Deuxième Attaquant,25,80.0,35,20,4271,23,9,2732,95,66,19366
+15,Marcus Rashford,Ailier Gauche,25,80.0,5,2,1658,30,11,4300,128,68,24770
+16,Luis Díaz,Ailier Gauche,26,75.0,22,11,3956,5,3,1354,76,37,20551
+17,Gabriel Jesus,Avant-Centre,26,75.0,13,12,2570,11,8,2347,127,60,20597
+18,Jack Grealish,Ailier Gauche,27,75.0,6,4,2730,5,11,3486,54,74,27586
+19,Dusan Vlahovic,Avant-Centre,23,70.0,29,6,3679,14,4,2945,95,16,14060
+20,Alexander Isak,Avant-Centre,23,70.0,10,3,2761,11,3,1834,94,22,15458
+21,Darwin Núñez,Avant-Centre,24,65.0,34,4,2821,15,4,2365,83,24,11792
+22,Kingsley Coman,Ailier Gauche,27,65.0,8,6,2085,9,7,2170,60,65,17804
+23,Leroy Sané,Ailier Droit,27,65.0,14,15,2977,14,10,2765,110,111,26228
+24,Mohamed Salah,Ailier Droit,31,65.0,31,16,4014,30,16,4296,263,133,42397
+25,Antony,Ailier Droit,23,60.0,12,10,2535,10,5,3369,36,31,11570
+26,Julián Álvarez,Avant-Centre,23,60.0,18,6,2157,17,5,2524,71,37,10656
+27,Jonathan David,Avant-Centre,23,60.0,19,0,3648,26,4,3420,95,24,15743
+28,Raphinha,Ailier Droit,26,60.0,11,3,2967,10,12,2924,72,50,20745
+29,Ousmane Dembélé,Ailier Droit,26,60.0,2,13,1942,8,9,2169,62,70,16549
+30,Neymar,Ailier Gauche,31,60.0,13,8,2328,18,17,2361,294,190,40599
+31,Cody Gakpo,Ailier Gauche,24,55.0,21,15,3398,20,20,3820,89,64,17037
+32,Serge Gnabry,Ailier Droit,28,55.0,17,9,2749,17,12,2572,122,73,22468
+33,Raheem Sterling,Ailier Gauche,28,55.0,17,9,3088,9,4,2561,171,134,38951
+34,Gonçalo Ramos,Avant-Centre,22,50.0,8,4,2446,27,12,3478,68,25,10196
+35,Mykhaylo Mudryk,Ailier Gauche,22,50.0,2,9,866,10,10,2178,12,21,5115
+36,João Félix,Deuxième Attaquant,23,50.0,10,6,2049,9,3,2144,72,35,14861
+37,Dejan Kulusevski,Ailier Droit,23,50.0,7,11,2363,2,8,2417,60,61,17207
+38,Moussa Diaby,Ailier Droit,24,50.0,17,14,3578,14,11,3886,61,61,17120
+39,Diogo Jota,Ailier Gauche,26,50.0,21,8,3572,7,8,1394,112,57,21986
+40,Heung-min Son,Ailier Gauche,31,50.0,24,10,3526,14,6,3788,210,94,39740
+41,Richarlison,Avant-Centre,26,48.0,11,5,2749,3,4,1467,81,34,21998
+42,Rasmus Højlund,Avant-Centre,20,45.0,12,1,1782,16,7,2551,44,12,6826
+43,Jadon Sancho,Ailier Gauche,23,45.0,5,3,2478,7,3,2432,86,81,18126
+44,Yéremy Pino,Ailier Droit,20,40.0,7,4,2222,4,7,2971,18,12,6597
+45,Karim Adeyemi,Ailier Gauche,21,40.0,23,9,2988,9,6,1870,80,50,11985
+46,Mikel Oyarzabal,Ailier Gauche,26,40.0,15,4,2548,4,1,1453,86,51,23445
+47,Federico Chiesa,Ailier Gauche,25,40.0,4,4,1205,4,6,1483,67,49,20188
+48,Tammy Abraham,Avant-Centre,25,40.0,27,5,4257,9,7,3185,161,44,25578
+49,Ollie Watkins,Avant-Centre,27,40.0,11,2,3045,16,6,3315,118,48,27304
+50,Romelu Lukaku,Avant-Centre,30,40.0,15,2,2748,14,7,1988,288,94,43874
+51,Michael Olise,Ailier Droit,21,38.0,4,9,1564,2,11,3000,21,38,12153
+52,Anthony Gordon,Ailier Gauche,22,38.0,4,3,2676,4,0,1637,32,19,9565
+53,Jarrod Bowen,Ailier Droit,26,38.0,18,13,4090,13,8,4245,96,46,23102
+54,Elye Wahi,Avant-Centre,20,35.0,10,2,1931,19,6,2530,35,9,5676
+55,Ansu Fati,Ailier Gauche,20,35.0,6,1,573,10,4,1824,33,13,4957
+56,Amine Gouiri,Avant-Centre,23,35.0,12,10,3202,17,8,3441,63,31,13151
+57,Bryan Mbeumo,Ailier Droit,24,35.0,8,7,3055,9,8,2937,56,40,15952
+58,Giacomo Raspadori,Deuxième Attaquant,23,35.0,10,6,2933,6,5,1351,67,22,13493
+59,Harvey Barnes,Ailier Gauche,25,35.0,11,14,3205,13,3,3247,79,55,21384
+60,Loïs Openda,Avant-Centre,23,35.0,24,6,4067,21,4,2800,64,22,11635
+61,Ivan Toney,Avant-Centre,27,35.0,14,6,3120,21,5,3063,165,59,28388
+62,Leandro Trossard,Ailier Gauche,28,35.0,8,3,2874,8,13,2425,103,53,25792
+63,Lionel Messi,Ailier Droit,36,35.0,11,15,2873,29,21,4021,718,340,72312
+64,Vitor Roque,Avant-Centre,18,32.0,14,5,2542,17,8,2634,31,13,5312
+65,João Pedro,Avant-Centre,21,32.0,4,1,1710,11,4,2791,34,11,9609
+66,Kaoru Mitoma,Ailier Gauche,26,32.0,8,4,1742,10,8,2910,50,34,8571
+67,Pedro Gonçalves,Ailier Gauche,25,32.0,15,14,2932,20,15,4230,74,46,16965
+68,Marcus Thuram,Avant-Centre,26,32.0,3,1,1035,16,7,2698,63,35,16173
+69,Miguel Almirón,Ailier Droit,29,32.0,1,0,1756,11,4,2939,51,34,20897
+70,Allan Saint-Maximin,Ailier Gauche,26,32.0,5,5,2915,1,5,1374,28,40,18202
+71,Nicolas Jackson,Avant-Centre,22,30.0,7,9,2397,13,5,2117,21,15,5398
+72,Nico Williams,Ailier Droit,21,30.0,3,1,1633,9,6,3203,21,19,7286
+73,Evan Ferguson,Avant-Centre,18,30.0,10,1,1431,16,5,2081,30,7,4494
+74,Noni Madueke,Ailier Droit,21,30.0,9,6,1868,3,0,1116,39,27,7547
+75,Folarin Balogun,Avant-Centre,22,30.0,18,6,2328,22,3,3146,102,25,12133
+76,Nicolás González,Ailier Gauche,25,30.0,8,9,2698,14,5,2663,56,25,13906
+77,Youssoufa Moukoko,Avant-Centre,18,30.0,3,2,482,7,6,1597,155,35,9931
+78,Martin Terrier,Ailier Gauche,26,30.0,21,7,3379,12,5,1719,69,26,15154
+79,Ademola Lookman,Deuxième Attaquant,25,30.0,8,5,2349,15,8,1857,50,26,13107
+80,Ferran Torres,Ailier Droit,23,30.0,10,7,2584,7,3,1884,40,30,12602
+81,Malcom,Ailier Droit,26,30.0,9,8,2598,26,9,2729,81,48,20562
+82,Marcus Edwards,Ailier Droit,24,30.0,11,7,2257,12,14,3602,51,47,15390
+83,Mattia Zaccagni,Ailier Gauche,28,30.0,7,7,2707,10,10,3517,36,46,21335
+84,Ángel Correa,Ailier Droit,28,30.0,13,6,2424,10,4,1928,81,76,23889
+85,Paulo Dybala,Deuxième Attaquant,29,30.0,15,6,2614,18,8,2502,163,72,29952
+86,Sébastien Haller,Avant-Centre,29,30.0,34,9,3493,9,5,1443,164,62,27997
+87,Robert Lewandowski,Avant-Centre,34,30.0,50,7,4006,33,8,3954,542,143,59712
+88,Armando Broja,Avant-Centre,21,28.0,9,1,2335,1,1,465,42,10,8130
+89,Pedro Neto,Ailier Droit,23,28.0,1,1,463,1,1,1089,14,14,6979
+90,Jérémy Doku,Ailier Droit,21,28.0,2,2,698,7,4,1615,18,18,7751
+91,Leon Bailey,Ailier Gauche,26,28.0,1,2,754,5,4,2123,60,53,18355
+92,Donyell Malen,Ailier Droit,24,28.0,9,6,2312,10,8,2191,108,52,17318
+93,Emiliano Buendía,Ailier Droit,26,28.0,4,6,2070,5,3,2494,50,65,21181
+94,Aleksandar Mitrovic,Avant-Centre,28,28.0,43,7,3961,15,4,2227,197,48,32453
+95,Endrick,Avant-Centre,17,25.0,12,1,1082,7,1,1510,19,2,2592
+96,Dango Ouattara,Ailier Droit,21,25.0,2,2,1136,7,9,2797,9,11,4113
+97,Alejandro Garnacho,Ailier Gauche,19,25.0,15,6,2147,6,6,1447,28,16,4518
+98,Boulaye Dia,Avant-Centre,26,25.0,7,6,1651,16,6,2523,68,16,12380
+99,Beto,Avant-Centre,25,25.0,13,0,2601,10,2,2195,48,6,9037
+100,Santiago Gimenez,Avant-Centre,22,25.0,9,2,2176,28,3,3027,62,14,12009
+101,Pepê,Ailier Gauche,26,25.0,6,6,2121,5,10,4259,43,36,14952
+102,Matheus Cunha,Avant-Centre,24,25.0,7,7,1342,2,3,1564,41,30,10673
+103,Kevin Schade,Ailier Droit,21,25.0,7,2,1084,1,3,1044,35,22,9091
+104,David Neres,Ailier Droit,26,25.0,4,2,785,12,16,2988,65,58,14676
+105,Takefusa Kubo,Ailier Droit,22,25.0,2,3,1769,9,9,2916,30,28,13132
+106,Samuel Chukwueze,Ailier Droit,24,25.0,7,3,1767,13,11,3262,41,33,13456
+107,Tetê,Ailier Droit,23,25.0,12,7,2383,7,5,2107,40,25,9266
+108,Arnaut Danjuma,Ailier Gauche,26,25.0,16,4,2382,8,0,1011,75,36,14240
+109,Eddie Nketiah,Avant-Centre,24,25.0,10,1,1283,9,3,1859,84,17,10687
+110,Hirving Lozano,Ailier Droit,28,25.0,6,6,1997,4,4,2075,113,71,26280
+111,Christian Pulisic,Ailier Droit,24,25.0,8,5,2208,1,2,1012,59,60,17631
+112,Dominic Calvert-Lewin,Avant-Centre,26,25.0,5,2,1331,2,1,1196,72,22,16034
+113,Marco Asensio,Ailier Droit,27,25.0,12,2,2111,12,8,1996,72,56,21466
+114,Taiwo Awoniyi,Avant-Centre,26,25.0,20,5,2892,11,1,1570,72,25,13836
+115,Saïd Benrahma,Ailier Gauche,28,25.0,11,6,2881,12,5,3032,76,56,19592
+116,Iñaki Williams,Avant-Centre,29,25.0,8,6,3291,11,5,3240,107,58,30482
+117,Enes Ünal,Avant-Centre,26,25.0,16,1,2806,15,5,3213,93,26,19637
+118,Patrik Schick,Avant-Centre,27,25.0,24,5,2229,4,1,1532,81,19,14699
+119,Sadio Mané,Ailier Gauche,31,25.0,23,5,3938,12,6,2204,204,101,37877
+120,Timo Werner,Avant-Centre,27,25.0,11,6,2215,16,6,2819,206,91,31877
+121,Yannick Carrasco,Ailier Gauche,29,25.0,6,7,3302,10,5,2842,91,85,28531
+122,Antoine Griezmann,Deuxième Attaquant,32,25.0,8,7,2520,16,19,3625,244,111,48873
+123,Karim Benzema,Avant-Centre,35,25.0,44,15,3915,31,6,3631,423,194,57609
+124,Benjamin Sesko,Avant-Centre,20,24.0,11,7,1570,18,4,2574,61,18,7390
+125,Gonçalo Guedes,Ailier Gauche,26,23.0,13,6,3092,4,1,1452,66,65,21882
+126,Kamaldeen Sulemana,Ailier Gauche,21,22.0,5,3,1424,3,3,1503,22,14,6008
+127,Evanilson,Avant-Centre,23,22.0,21,5,3002,10,9,2182,54,16,8210
+128,Julio Enciso,Deuxième Attaquant,19,22.0,11,3,1328,7,4,1461,28,12,5667
+129,Arnaud Kalimuendo,Avant-Centre,21,22.0,13,0,2402,7,5,2231,40,12,6997
+130,Luis Sinisterra,Ailier Gauche,24,22.0,23,14,4029,7,1,1017,54,35,12881
+131,Pedro,Avant-Centre,26,22.0,29,10,3214,27,4,2681,115,26,14139
+132,Jack Harrison,Ailier Gauche,26,22.0,10,2,2918,6,10,3010,48,43,20743
+133,Gianluca Scamacca,Avant-Centre,24,22.0,16,1,2309,8,0,1342,63,7,11717
+134,Steven Bergwijn,Ailier Gauche,25,22.0,4,2,871,16,6,3483,75,64,20382
+135,Viktor Tsygankov,Ailier Droit,25,22.0,11,4,2052,12,12,3581,98,71,19759
+136,Rafa,Ailier Gauche,30,22.0,12,18,3363,14,14,3672,109,83,31979
+137,Solly March,Ailier Droit,29,22.0,0,2,1921,8,8,3252,25,31,17520
+138,Wilfried Zaha,Ailier Droit,30,22.0,15,2,3122,7,3,2384,91,77,37980
+139,Gift Orban,Avant-Centre,21,20.0,19,7,1792,20,2,1670,44,9,3790
+140,Mathys Tel,Avant-Centre,18,20.0,9,0,794,6,0,600,15,0,1465
+141,Hugo Ekitiké,Avant-Centre,21,20.0,11,5,1462,4,4,1395,24,11,4512
+142,Dwight McNeil,Ailier Gauche,23,20.0,0,1,3278,7,3,2636,14,20,14929
+143,Terem Moffi,Avant-Centre,24,20.0,8,4,2754,21,3,3063,70,11,12065
+144,Amine Adli,Ailier Droit,23,20.0,4,4,1928,7,6,1835,21,20,7605
+145,Galeno,Ailier Gauche,25,20.0,11,3,2258,15,9,3469,64,60,18823
+146,Youssef En-Nesyri,Avant-Centre,26,20.0,5,3,1582,18,2,2878,74,10,14300
+147,Ismaïla Sarr,Ailier Droit,25,20.0,5,2,1861,10,6,3181,57,46,19035
+148,Arthur Cabral,Avant-Centre,25,20.0,29,10,3404,17,2,2549,95,23,14516
+149,Noah Okafor,Avant-Centre,23,20.0,14,11,1692,10,5,1844,57,32,12383
+150,Ché Adams,Avant-Centre,27,20.0,8,3,2143,10,3,2369,87,33,20882
+151,Cengiz Ünder,Ailier Droit,26,20.0,13,6,3319,5,6,2924,57,43,19273
+152,Jonathan Bamba,Ailier Gauche,27,20.0,1,4,3081,6,7,2872,44,50,21980
+153,Demarai Gray,Ailier Gauche,27,20.0,6,5,2640,6,1,2715,38,32,19273
+154,Borja Iglesias,Avant-Centre,30,20.0,19,1,2775,15,5,2650,172,21,28634
+155,Ricardo Horta,Ailier Gauche,28,20.0,23,10,4316,17,10,3792,121,62,29687
+156,Dominic Solanke,Avant-Centre,25,20.0,30,7,4186,7,7,3052,103,35,19977
+157,Daniel Podence,Ailier Gauche,27,20.0,6,3,1799,6,1,1924,42,47,19670
+158,Gabriel Barbosa,Avant-Centre,26,20.0,29,5,4972,19,4,3453,183,51,28506
+159,Breel Embolo,Avant-Centre,26,20.0,11,6,2283,14,4,2231,89,55,19800
+160,Gerard Moreno,Avant-Centre,31,20.0,13,6,1910,11,6,1718,170,55,30468
+161,Riyad Mahrez,Ailier Droit,32,20.0,24,9,2931,15,13,3068,137,110,33487
+162,Álvaro Morata,Avant-Centre,30,20.0,12,9,3203,15,3,2496,195,77,31405
+163,Mauro Icardi,Avant-Centre,30,19.0,5,0,1302,23,8,2004,226,51,29740
+164,Bradley Barcola,Ailier Droit,20,18.0,3,6,1405,7,10,2128,12,18,4353
+165,Wilfried Gnonto,Ailier Gauche,19,18.0,10,5,1532,6,5,2761,34,21,7448
+166,Iliman Ndiaye,Deuxième Attaquant,23,18.0,7,2,2169,15,12,4107,22,15,6429
+167,Vitinha,Avant-Centre,23,18.0,14,4,2156,15,6,2332,43,10,6992
+168,Anthony Elanga,Ailier Gauche,21,18.0,8,5,2346,0,2,702,30,21,7713
+169,Armand Laurienté,Ailier Gauche,24,18.0,6,2,2570,8,7,2458,30,21,9950
+170,Adam Hlozek,Avant-Centre,21,18.0,12,15,4042,7,6,1997,57,43,13446
+171,Georginio Rutter,Avant-Centre,21,18.0,8,5,1814,3,4,1755,21,11,5694
+172,Amad Diallo,Ailier Droit,21,18.0,5,1,749,14,4,3105,62,33,10778
+173,Patrick Wimmer,Ailier Droit,22,18.0,3,10,2185,4,8,1850,17,28,8161
+174,Manor Solomon,Ailier Gauche,24,18.0,4,2,1472,5,0,827,35,15,11190
+175,Yoane Wissa,Ailier Gauche,26,18.0,10,2,1580,7,3,1715,75,30,16315
+176,Jesper Karlsson,Ailier Gauche,25,18.0,21,16,4467,13,8,2478,106,56,21156
+177,Patson Daka,Avant-Centre,24,18.0,11,4,1981,4,4,1414,91,42,12431
+178,Moise Kean,Avant-Centre,23,18.0,6,3,1434,8,0,1439,90,11,12285
+179,Ritsu Doan,Ailier Droit,25,18.0,11,3,2224,7,7,3308,55,31,18187
+180,Habib Diallo,Avant-Centre,28,18.0,12,2,1669,20,1,3000,107,27,18025
+181,Nicolas Pépé,Ailier Droit,28,18.0,3,6,951,8,1,2142,86,44,19203
+182,Nathan Tella,Ailier Droit,24,18.0,2,3,1233,19,5,2843,35,19,8437
+183,Umar Sadiq,Avant-Centre,26,18.0,19,12,3158,3,0,370,126,53,17963
+184,Mehdi Taremi,Avant-Centre,31,18.0,26,17,3596,31,14,3822,179,85,25964
+185,Kelechi Iheanacho,Avant-Centre,26,18.0,8,9,2211,8,5,1435,82,46,12683
+186,Domenico Berardi,Ailier Droit,29,18.0,15,17,2894,13,7,1962,140,92,29302
+187,Roberto Firmino,Avant-Centre,31,18.0,11,5,1803,13,5,1710,171,115,39450
+188,Marcos Leonardo,Avant-Centre,20,17.0,21,6,4564,15,4,2660,48,11,9701
+189,Sheraldo Becker,Deuxième Attaquant,28,17.0,6,9,2407,12,10,3749,45,57,21746
+190,Samuel Lino,Ailier Gauche,23,16.0,14,5,3123,8,3,3161,35,8,9360
+191,Mateo Retegui,Avant-Centre,24,16.0,23,3,2955,12,1,2357,49,9,9426
+192,Yuri Alberto,Avant-Centre,22,16.0,18,6,3138,10,7,3508,59,19,12727
+193,Ben Brereton Díaz,Ailier Gauche,24,16.0,22,3,3247,16,4,3904,58,23,15302
+194,Jonathan Ikoné,Ailier Droit,25,16.0,3,4,2274,6,8,3060,33,39,17890
+195,Harry Wilson,Ailier Droit,26,16.0,11,21,3591,3,5,1413,86,68,20560
+196,Hakim Ziyech,Ailier Droit,30,16.0,8,6,2489,0,3,928,125,137,33927
+197,Gaëtan Laborde,Avant-Centre,29,16.0,20,8,3718,18,4,3619,120,41,25782
+198,Callum Wilson,Avant-Centre,31,16.0,8,0,1389,18,5,2257,131,49,25605
+199,Luiz Henrique,Ailier Droit,22,15.0,5,7,2378,3,7,2472,17,21,9317
+200,Abde Ezzalzouli,Ailier Gauche,21,15.0,4,7,2143,6,2,1903,12,9,5054
+201,Talles Magno,Ailier Gauche,21,15.0,11,8,3316,3,2,1710,22,14,10223
+202,Sofiane Diop,Ailier Gauche,23,15.0,9,7,2590,3,4,1700,24,15,10293
+203,Bryan Gil,Ailier Gauche,22,15.0,0,2,1863,2,4,1666,13,19,8605
+204,Taty Castellanos,Avant-Centre,24,15.0,17,6,2114,14,1,2768,78,28,14781
+205,Krépin Diatta,Ailier Droit,24,15.0,2,0,531,5,6,2749,36,25,12714
+206,Crysencio Summerville,Ailier Droit,21,15.0,7,1,1044,5,6,1834,31,25,9806
+207,Trincão,Ailier Droit,23,15.0,3,1,1379,13,4,3395,33,25,10853
+208,Callum Hudson-Odoi,Ailier Gauche,22,15.0,3,6,1876,1,1,1074,48,41,12452
+209,Kerem Aktürkoglu,Ailier Gauche,24,15.0,13,13,4000,10,14,2718,57,35,14749
+210,Mike Trésor,Ailier Gauche,24,15.0,0,8,1531,8,24,3589,33,54,11795
+211,Alexis Saelemaekers,Ailier Droit,24,15.0,2,3,2490,4,3,1838,12,25,12300
+212,Sasa Kalajdzic,Avant-Centre,26,15.0,6,2,1220,0,3,282,51,28,8776
+213,Odsonne Edouard,Avant-Centre,25,15.0,9,5,2285,7,2,1947,110,45,18149
+214,Artem Dovbyk,Avant-Centre,26,15.0,14,5,1519,29,8,3437,79,17,11405
+215,Noa Lang,Ailier Gauche,24,15.0,9,15,3769,12,8,2854,77,58,17932
+216,Álex Berenguer,Ailier Gauche,28,15.0,4,7,2596,7,4,2706,35,40,18217
+217,Andrea Pinamonti,Avant-Centre,24,15.0,13,2,2915,5,1,2172,75,16,14834
+218,Giovanni Simeone,Avant-Centre,28,15.0,17,6,2669,9,1,765,96,26,20655
+219,Vedat Muriqi,Avant-Centre,29,15.0,5,4,1913,16,4,3073,104,32,22990
+220,Jacob Murphy,Ailier Droit,28,15.0,1,2,1517,4,2,1459,61,57,23220
+221,André Silva,Avant-Centre,27,15.0,17,8,3219,9,9,2582,144,53,26296
+222,Anthony Martial,Avant-Centre,27,15.0,2,1,1040,9,3,1441,104,62,23618
+223,Matteo Politano,Ailier Droit,30,15.0,5,7,1906,4,4,1626,86,48,28936
+224,Felipe Anderson,Ailier Droit,30,15.0,7,8,3590,12,9,3923,72,83,28695
+225,Wissam Ben Yedder,Avant-Centre,33,15.0,32,7,3554,25,7,2913,241,76,33301
+226,Ciro Immobile,Avant-Centre,33,15.0,32,4,3357,14,7,2736,318,73,40883
+227,Cristiano Ronaldo,Avant-Centre,38,15.0,24,3,3217,17,4,2752,721,225,79515
+228,Jamie Bynoe-Gittens,Ailier Gauche,19,14.0,11,4,1426,3,1,667,15,6,2208
+229,Kyogo Furuhashi,Avant-Centre,28,14.0,20,5,2158,34,5,3205,122,47,20286
+230,Andreas Skov Olsen,Ailier Droit,23,14.0,6,11,1929,9,7,1971,72,31,12645
+231,Jonas Wind,Avant-Centre,24,14.0,16,7,3302,6,0,1375,86,29,14498
+232,Timothy Weah,Ailier Droit,23,14.0,3,5,1888,0,2,1940,23,10,7801
+233,Abel Ruiz,Avant-Centre,23,14.0,5,3,2120,12,7,3156,42,23,12713
+234,Justin Kluivert,Ailier Gauche,24,14.0,6,6,2159,8,2,1674,55,49,15498
+235,Vangelis Pavlidis,Avant-Centre,24,14.0,25,7,3883,22,14,3124,114,58,20191
+236,Nuno Santos,Ailier Gauche,28,14.0,10,10,2864,9,9,3373,51,53,19405
+237,Serhou Guirassy,Avant-Centre,27,14.0,12,3,1553,14,2,2044,80,14,14897
+238,Jérémie Boga,Ailier Gauche,26,14.0,2,4,1746,2,5,899,43,29,17494
+239,Memphis Depay,Avant-Centre,29,14.0,13,2,2495,5,0,520,163,96,28984
+240,Alexandre Lacazette,Avant-Centre,32,14.0,6,8,2095,31,6,3198,231,85,36743
+241,Pablo Sarabia,Ailier Droit,31,14.0,22,10,3175,1,0,1393,117,84,31702
+242,Ângelo,Ailier Droit,18,13.0,2,8,2658,2,1,1466,5,10,5925
+243,Mikkel Damsgaard,Ailier Gauche,23,13.0,0,0,613,0,1,1213,19,26,12153
+244,Fábio Silva,Avant-Centre,21,13.0,1,3,995,16,6,3351,31,18,7670
+245,Rony,Avant-Centre,28,13.0,23,6,4525,12,8,2989,89,53,24714
+246,Jota,Ailier Gauche,24,13.0,13,14,3078,15,12,2924,45,45,11755
+247,Viktor Gyökeres,Avant-Centre,25,13.0,18,5,3721,22,12,4376,125,37,21275
+248,Fran Navarro,Avant-Centre,25,13.0,16,0,2813,21,3,3689,66,11,13545
+249,Paul Onuachu,Avant-Centre,29,13.0,23,3,3206,17,0,1860,164,34,21792
+250,Niclas Füllkrug,Avant-Centre,30,13.0,19,8,2588,16,6,2689,144,45,23966
+251,Jonas Hofmann,Ailier Droit,31,13.0,12,6,2152,14,12,2815,97,85,29086
+252,Mohamed-Ali Cho,Avant-Centre,19,12.0,4,1,1847,2,3,770,6,4,3142
+253,Marquinhos,Ailier Droit,20,12.0,3,1,584,6,4,1244,10,7,2626
+254,Victor Boniface,Avant-Centre,22,12.0,8,3,862,22,12,4012,41,20,6400
+255,Jhon Durán,Avant-Centre,19,12.0,8,6,1634,0,0,124,17,10,4494
+256,El Bilal Touré,Avant-Centre,21,12.0,2,4,1290,7,2,1394,18,7,4682
+257,Keane Lewis-Potter,Ailier Gauche,22,12.0,13,3,4321,1,1,547,33,12,9110
+258,Lucas Beltrán,Avant-Centre,22,12.0,10,4,2702,16,4,2184,29,10,6399
+259,Jack Clarke,Ailier Gauche,22,12.0,5,9,2765,11,14,4179,21,28,9780
+260,Thijs Dallinga,Avant-Centre,23,12.0,36,9,3951,18,3,2822,89,15,11782
+261,Joseph Paintsil,Ailier Droit,25,12.0,7,5,1600,18,14,3185,52,32,12434
+262,Cameron Archer,Avant-Centre,21,12.0,20,5,2517,11,6,1622,45,16,8523
+263,Anass Zaroury,Ailier Gauche,22,12.0,5,1,1974,12,6,2897,25,11,7097
+264,Brian Brobbey,Avant-Centre,21,12.0,8,4,808,14,4,2136,112,28,10703
+265,Rodrigo Riquelme,Ailier Gauche,23,12.0,8,12,2334,5,4,2307,23,23,7786
+266,Jakub Kaminski,Ailier Gauche,21,12.0,9,8,2827,5,3,2186,32,23,11984
+267,Josh Sargent,Avant-Centre,23,12.0,6,3,1976,13,2,3172,40,17,11286
+268,Luka Ivanusec,Ailier Gauche,24,12.0,5,8,3276,13,5,3712,46,32,19246
+269,Riccardo Orsolini,Ailier Droit,26,12.0,7,4,1877,11,4,2232,76,42,17394
+270,Isi Palazón,Ailier Droit,28,12.0,2,4,2667,9,5,3101,49,22,19738
+271,Reiss Nelson,Ailier Droit,23,12.0,4,7,1572,3,3,589,43,26,10381
+272,Christian Kouamé,Avant-Centre,25,12.0,13,10,3036,5,8,2451,52,47,17581
+273,Ermedin Demirovic,Avant-Centre,25,12.0,3,4,1122,8,6,2509,80,40,14995
+274,Daniel James,Ailier Droit,25,12.0,4,5,2744,3,2,1012,30,38,15347
+275,Lukas Nmecha,Avant-Centre,24,12.0,10,1,2012,4,2,1055,89,21,14450
+276,Mergim Berisha,Avant-Centre,25,12.0,8,3,1531,10,4,1705,105,45,17240
+277,Dodi Lukébakio,Ailier Droit,25,12.0,2,3,1403,12,5,2520,49,34,12824
+278,Hee-chan Hwang,Avant-Centre,27,12.0,5,2,1979,4,3,1413,72,47,14809
+279,Fedor Chalov,Avant-Centre,25,12.0,7,7,1983,24,6,2985,105,46,18405
+280,David Brooks,Ailier Droit,26,12.0,3,0,660,0,0,171,21,21,8433
+281,Alexander Sørloth,Avant-Centre,27,12.0,8,1,2247,16,4,3153,105,42,19996
+282,Maxwel Cornet,Ailier Gauche,26,12.0,9,2,1942,0,5,666,61,36,17584
+283,Moussa Dembélé,Avant-Centre,27,12.0,22,5,2696,3,1,1054,152,47,22391
+284,Wout Weghorst,Avant-Centre,31,12.0,9,4,3496,11,7,3150,177,56,34040
+285,Joaquín Correa,Deuxième Attaquant,29,12.0,6,2,1317,4,3,1408,64,39,20218
+286,Chuba Akpom,Avant-Centre,27,12.0,11,3,2954,29,2,3418,114,30,22385
+287,Lucas Ocampos,Ailier Droit,29,12.0,9,6,3097,5,2,1846,91,48,29549
+288,Vincenzo Grifo,Ailier Gauche,30,12.0,13,8,3315,17,7,3304,96,94,26078
+289,Sardar Azmoun,Avant-Centre,28,12.0,11,5,1720,4,4,1240,115,48,18724
+290,Danny Ings,Avant-Centre,31,12.0,7,6,1995,10,4,1932,123,39,25136
+291,Lorenzo Insigne,Ailier Gauche,32,12.0,19,12,3668,4,2,1158,191,117,41912
+292,Bertrand Traoré,Ailier Droit,27,12.0,0,0,277,5,1,1213,86,39,19085
+293,Juanmi,Ailier Gauche,30,12.0,20,5,2912,4,1,1195,81,22,17640
+294,Thomas Müller,Deuxième Attaquant,33,12.0,13,25,3565,8,12,2331,277,261,56469
+295,Gabriel Veron,Ailier Droit,20,11.0,2,6,1571,1,5,688,15,19,4813
+296,Musa Barrow,Ailier Gauche,24,11.0,6,7,2182,3,8,2124,74,41,13185
+297,Jörgen Strand Larsen,Avant-Centre,23,11.0,17,2,2526,6,7,2273,46,25,11857
+298,Hugo Cuypers,Avant-Centre,26,11.0,13,10,2757,34,9,4553,91,32,13486
+299,Mahmoud Trezeguet,Ailier Gauche,28,11.0,7,4,1114,13,10,3077,68,52,21734
+300,Jhon Córdoba,Avant-Centre,30,11.0,6,4,1029,21,10,2962,109,38,21990
+301,Quincy Promes,Ailier Gauche,31,11.0,12,5,2362,25,10,3079,174,89,33213
+302,Farès Chaïbi,Ailier Gauche,20,10.0,1,3,1478,8,7,2684,12,11,4466
+303,David Datro Fofana,Avant-Centre,20,10.0,17,6,1955,5,1,978,25,11,3771
+304,Giovani,Ailier Droit,19,10.0,4,3,795,1,3,385,6,7,1912
+305,Carlos Forbs,Ailier Gauche,19,10.0,13,5,1127,29,18,2622,55,42,5489
+306,Georges Mikautadze,Avant-Centre,22,10.0,14,2,2740,24,9,3320,68,14,9812
+307,Simon Adingra,Ailier Gauche,21,10.0,17,5,2300,15,15,3111,40,26,6536
+308,Igor Paixão,Ailier Gauche,23,10.0,11,8,3046,9,6,1608,34,19,10295
+309,Tajon Buchanan,Ailier Droit,24,10.0,1,2,1262,1,6,2464,16,19,7939
+310,Ferran Jutglà,Avant-Centre,24,10.0,21,6,3177,15,8,2829,48,17,9922
+311,Johan Bakayoko,Ailier Droit,20,10.0,17,12,2518,9,6,2475,37,25,7514
+312,Sékou Mara,Avant-Centre,21,10.0,6,2,952,6,3,1035,18,7,3156
+313,Fernando,Avant-Centre,24,10.0,8,2,876,6,5,789,19,11,3829
+314,Zeki Amdouni,Avant-Centre,22,10.0,15,0,2873,22,5,3825,72,10,12257
+315,Sergio Camello,Avant-Centre,22,10.0,15,4,2913,7,5,2608,44,10,10579
+316,Facundo Torres,Ailier Droit,23,10.0,13,10,3186,7,2,2134,36,27,11020
+317,Cucho Hernández,Avant-Centre,24,10.0,14,5,2687,8,8,1720,70,28,16126
+318,Gabriel Strefezza,Ailier Droit,26,10.0,14,6,2777,9,4,2582,41,26,15099
+319,Artur,Ailier Droit,25,10.0,10,9,4007,13,3,3391,63,48,22429
+320,Paulinho,Ailier Gauche,23,10.0,4,3,1633,17,6,3305,30,14,7494
+321,Joël Piroe,Avant-Centre,24,10.0,24,6,3690,20,2,3953,108,28,17656
+322,Rafa Mir,Avant-Centre,26,10.0,13,0,2468,8,1,1735,84,15,15514
+323,Junya Ito,Ailier Droit,30,10.0,8,21,3891,6,6,3089,62,89,26590
+324,Róger Guedes,Ailier Gauche,26,10.0,15,6,4689,22,2,3632,90,29,20543
+325,Deniz Undav,Avant-Centre,27,10.0,27,13,3466,8,1,921,123,53,18366
+326,Lucas Boyé,Avant-Centre,27,10.0,7,3,1723,7,4,2580,37,20,15258
+327,Jonathan Burkardt,Avant-Centre,23,10.0,14,4,2845,1,2,611,49,27,10425
+328,Roland Sallai,Ailier Droit,26,10.0,5,6,1782,2,7,1407,34,33,13988
+329,Adam Armstrong,Avant-Centre,26,10.0,2,3,1758,3,1,2025,118,40,25788
+330,Antonio Sanabria,Avant-Centre,27,10.0,6,5,1812,12,4,2679,78,18,16900
+331,Franck Honorat,Ailier Droit,27,10.0,11,6,3105,6,6,2637,38,44,17046
+332,Neal Maupay,Avant-Centre,27,10.0,9,2,2505,1,1,1263,94,28,21508
+333,Adama Traoré,Ailier Droit,27,10.0,1,4,1903,3,2,1852,31,59,21851
+334,Andrea Petagna,Avant-Centre,28,10.0,4,5,1004,5,7,1688,83,38,22188
+335,Michy Batshuayi,Avant-Centre,29,10.0,14,5,3140,20,2,1860,164,41,24639
+336,Moi Gómez,Ailier Gauche,29,10.0,3,3,1710,3,3,2846,35,51,26160
+337,Gerard Deulofeu,Avant-Centre,29,10.0,13,5,2652,3,7,1334,79,72,21314
+338,Nathan Redmond,Ailier Droit,29,10.0,3,6,2128,6,6,1823,58,65,31083
+339,Philippe Coutinho,Ailier Gauche,31,10.0,7,3,1946,1,0,916,107,79,30005
+340,Diego Rossi,Ailier Gauche,25,9.5,6,9,2339,4,11,2637,82,53,18438
+341,Matheus Nascimento,Avant-Centre,19,9.0,7,1,1703,3,1,699,11,3,3558
+342,Jaidon Anthony,Ailier Gauche,23,9.0,8,7,3503,4,1,1592,13,9,5815
+343,Andreas Schjelderup,Ailier Gauche,19,9.0,4,1,1417,11,1,1576,26,6,4653
+344,Ricardo Pepi,Avant-Centre,20,9.0,0,0,475,13,3,2741,40,8,7243
+345,Antoine Semenyo,Avant-Centre,23,9.0,8,12,2166,9,2,1811,28,24,9507
+346,Samuel Iling Junior,Ailier Gauche,19,9.0,11,10,3046,6,4,1428,21,22,6756
+347,Anastasios Douvikas,Avant-Centre,24,9.0,10,3,2528,22,4,2729,56,14,11316
+348,Lyle Foster,Avant-Centre,22,9.0,5,5,1683,9,5,2147,19,13,6050
+349,Aleksandr Sobolev,Avant-Centre,26,9.0,15,6,2300,15,9,2403,95,31,15602
+350,Joshua Zirkzee,Avant-Centre,22,9.0,18,13,3101,2,2,882,72,42,10395
+351,Julián Quiñones,Avant-Centre,26,9.0,15,9,3779,23,4,3724,77,23,15310
+352,Zakaria Aboukhlal,Ailier Droit,23,9.0,8,1,1332,15,5,2892,65,33,13492
+353,Rafael Borré,Avant-Centre,27,9.0,12,8,3551,3,4,1714,101,39,19725
+354,Everton,Ailier Gauche,27,9.0,10,12,4373,4,7,2124,81,52,24153
+355,Myrto Uzuni,Ailier Gauche,28,9.0,22,9,3211,23,5,3060,101,40,21606
+356,Borja Mayoral,Avant-Centre,26,9.0,7,2,1294,9,2,2895,88,25,16235
+357,Ludovic Ajorque,Avant-Centre,29,9.0,12,8,2853,7,1,2060,90,28,21037
+358,Ryan Kent,Ailier Gauche,26,9.0,3,19,3879,3,10,3670,48,71,25694
+359,Michael Olunga,Avant-Centre,29,9.0,30,3,2637,33,4,2604,162,27,16774
+360,Sergi Canós,Ailier Droit,26,9.0,4,2,2372,4,3,530,47,45,16569
+361,Wanderson,Ailier Gauche,28,9.0,7,3,2067,4,7,3004,38,53,20982
+362,Vincent Janssen,Avant-Centre,29,9.0,3,1,1569,21,6,3465,131,38,22274
+363,Mohamed Elyounoussi,Ailier Gauche,29,9.0,8,4,2252,1,2,2502,116,69,28670
+364,Patrick Bamford,Avant-Centre,29,9.0,2,3,671,9,4,1745,125,49,23642
+365,Chimy Ávila,Avant-Centre,29,9.0,7,2,1980,9,2,2068,46,13,11640
+366,Dudu,Ailier Gauche,31,9.0,11,13,5162,3,6,3066,89,117,35990
+367,Erik Lamela,Ailier Droit,31,9.0,5,3,1132,9,3,2766,76,72,25523
+368,Julien Duranville,Ailier Droit,17,8.5,0,0,7,2,0,625,2,0,632
+369,Maximiliano Araújo,Ailier Gauche,23,8.5,4,3,3142,8,8,3428,17,14,10389
+370,Esequiel Barco,Ailier Gauche,24,8.5,5,4,2529,8,4,2292,40,33,15899
+371,Milot Rashica,Ailier Droit,27,8.5,2,2,2445,6,8,2266,50,53,19318
+372,Jeffinho,Ailier Gauche,23,8.0,4,7,2497,2,1,498,9,9,3416
+373,Bamba Dieng,Avant-Centre,23,8.0,8,3,1568,5,1,1115,14,4,3104
+374,Agustín Álvarez,Avant-Centre,22,8.0,1,1,1421,1,1,392,35,11,7000
+375,Amin Sarr,Avant-Centre,22,8.0,6,1,1275,6,7,2364,22,10,6016
+376,Samuel Edozie,Ailier Gauche,20,8.0,4,2,1392,0,1,1195,14,11,5635
+377,Kayky,Ailier Droit,20,8.0,6,4,1257,3,4,1657,12,10,4009
+378,Alan Velasco,Ailier Gauche,21,8.0,7,5,2208,4,2,1982,19,17,8598
+379,Tyrhys Dolan,Ailier Droit,21,8.0,5,3,1966,6,7,2581,16,14,6858
+380,Silas,Ailier Droit,24,8.0,0,0,272,7,2,2252,41,18,9146
+381,Jhon Arias,Ailier Gauche,25,8.0,16,17,4449,5,13,3515,30,36,15670
+382,Emanuel Emegha,Avant-Centre,20,8.0,2,0,1022,10,5,2228,27,8,5449
+383,Michael,Ailier Gauche,27,8.0,3,6,1354,8,6,2105,52,39,15694
+384,Pedrinho,Ailier Droit,25,8.0,4,3,1487,0,1,1055,13,16,9548
+385,Joe Gelhardt,Avant-Centre,21,8.0,9,7,1450,5,6,2032,32,16,5823
+386,Edon Zhegrova,Ailier Droit,24,8.0,6,7,1283,4,5,1210,22,26,7027
+387,Francisco Conceição,Ailier Droit,20,8.0,3,4,756,6,3,1264,13,12,3909
+388,Moussa Djenepo,Ailier Gauche,25,8.0,0,0,674,1,4,1062,17,13,7099
+389,Jesús Ferreira,Avant-Centre,22,8.0,18,6,2932,11,3,1986,53,26,11907
+390,Nicolò Cambiaghi,Ailier Gauche,22,8.0,7,5,2822,7,2,1330,33,15,10036
+391,Jorge de Frutos,Ailier Droit,26,8.0,4,7,1766,5,8,3503,32,33,15472
+392,Junior Adamu,Avant-Centre,22,8.0,9,5,2066,14,6,1745,82,25,11662
+393,Emmanuel Dennis,Avant-Centre,25,8.0,10,6,2644,2,3,1199,48,24,12899
+394,Aaron Boupendza,Avant-Centre,27,8.0,9,5,1634,14,4,1797,64,14,10092
+395,Luis Suárez,Avant-Centre,25,8.0,8,4,2899,7,6,1883,62,19,16216
+396,Brenner,Avant-Centre,23,8.0,18,6,2222,1,0,537,51,11,9147
+397,Javi Puado,Ailier Gauche,25,8.0,5,1,2462,9,2,2607,35,18,10389
+398,Keito Nakamura,Ailier Gauche,23,8.0,12,2,1976,17,8,2910,56,19,9864
+399,Riccardo Sottil,Ailier Gauche,24,8.0,4,2,1432,1,3,1185,53,25,12502
+400,M'Bala Nzola,Avant-Centre,26,8.0,2,1,1131,15,3,2910,61,18,14747
+401,Simon Banza,Avant-Centre,27,8.0,18,7,2793,14,10,2288,76,27,13967
+402,Cyle Larin,Avant-Centre,28,8.0,8,1,2344,9,3,1833,101,31,18207
+403,Anders Dreyer,Ailier Droit,25,8.0,18,8,3076,15,8,4024,103,55,19729
+404,Mama Baldé,Avant-Centre,27,8.0,3,4,1770,12,4,2717,42,21,16834
+405,Karl Toko Ekambi,Ailier Gauche,30,8.0,18,7,2930,9,4,2505,139,45,29689
+406,Moses Simon,Ailier Gauche,28,8.0,6,8,2665,5,4,2947,65,55,24267
+407,Luka Jovic,Avant-Centre,25,8.0,1,3,549,13,5,2386,73,26,12804
+408,Vaclav Cerny,Ailier Droit,25,8.0,1,1,579,15,13,2971,78,60,15674
+409,Sofiane Boufal,Ailier Gauche,29,8.0,8,5,2344,7,5,1655,43,35,17966
+410,Federico Bernardeschi,Ailier Droit,29,8.0,10,9,3185,3,2,1868,81,47,23176
+411,Arkadiusz Milik,Avant-Centre,29,8.0,20,2,2321,9,1,2252,153,38,21712
+412,Andrea Belotti,Avant-Centre,29,8.0,8,1,1418,4,2,1999,162,37,31035
+413,Alassane Plea,Avant-Centre,30,8.0,10,8,2156,2,13,1951,97,67,23781
+414,Raúl de Tomás,Avant-Centre,28,8.0,17,3,3082,4,0,804,133,22,22554
+415,Gianluca Caprari,Deuxième Attaquant,30,8.0,12,7,2757,6,2,2535,90,40,25610
+416,Tecatito,Ailier Droit,30,8.0,2,5,2180,1,0,109,56,84,26344
+417,Michael Gregoritsch,Avant-Centre,29,8.0,9,1,1541,15,5,2860,94,29,23677
+418,Chris Wood,Avant-Centre,31,8.0,5,0,2885,4,0,1051,167,43,33156
+419,Marko Livaja,Avant-Centre,29,8.0,32,7,3464,21,15,3633,126,65,26118
+420,Kevin Volland,Avant-Centre,31,8.0,15,13,3730,6,3,994,169,112,40973
+421,Duván Zapata,Avant-Centre,32,8.0,13,7,2313,2,5,1510,155,64,27517
+422,Andrej Kramaric,Avant-Centre,32,8.0,8,11,2934,12,3,2535,205,71,31028
+423,Ángel Di María,Ailier Droit,35,8.0,5,9,1912,8,7,2248,163,253,47840
+424,Walid Cheddira,Avant-Centre,25,7.5,6,3,2080,22,7,3076,58,18,15098
+425,Liel Abada,Ailier Droit,21,7.5,15,11,3296,13,9,2079,51,32,10806
+426,Gustav Isaksen,Ailier Droit,22,7.5,8,7,3011,22,9,3473,54,29,11090
+427,Alexis Vega,Ailier Gauche,25,7.5,6,7,2102,6,9,2664,47,35,15088
+428,Paco Alcácer,Avant-Centre,29,7.5,5,5,999,9,10,2445,133,51,22952
+429,Marvin Ducksch,Avant-Centre,29,7.5,23,11,2997,12,8,2954,199,88,28607
+430,Pedro,Ailier Gauche,17,7.0,3,0,301,2,0,491,5,0,792
+431,Alejo Véliz,Avant-Centre,19,7.0,8,1,2453,11,1,1792,19,2,4281
+432,José Manuel López,Avant-Centre,22,7.0,9,2,2333,4,2,888,28,7,5611
+433,Pablo Solari,Ailier Droit,22,7.0,15,4,3197,8,10,1631,32,21,7576
+434,Matheus Martins,Ailier Gauche,20,7.0,8,6,2634,0,1,357,9,7,3380
+435,Martín Satriano,Avant-Centre,22,7.0,5,1,1289,2,1,1772,22,11,5875
+436,Daryl Dike,Avant-Centre,23,7.0,0,0,84,8,1,1334,39,7,6224
+437,Tiago Tomás,Avant-Centre,21,7.0,7,0,1691,4,4,1592,22,10,5825
+438,Matías Arezo,Avant-Centre,20,7.0,0,0,156,15,2,2134,52,16,9655
+439,Lassina Traoré,Avant-Centre,22,7.0,9,0,979,6,4,1566,52,27,7232
+440,Billal Brahimi,Ailier Gauche,23,7.0,0,2,875,5,2,1244,28,23,9544
+441,Konstantin Tyukavin,Avant-Centre,21,7.0,9,4,1909,10,7,1834,46,24,6977
+442,Sergey Pinyaev,Ailier Gauche,18,7.0,4,3,491,6,3,1694,14,14,4684
+443,Jean-Philippe Mateta,Avant-Centre,26,7.0,7,1,1566,4,0,1013,83,9,13801
+444,Myron Boadu,Avant-Centre,22,7.0,6,2,1446,3,0,401,62,21,10662
+445,Sekou Koita,Avant-Centre,23,7.0,1,0,15,6,5,1261,43,27,6191
+446,Adam Ounas,Ailier Droit,26,7.0,2,0,439,1,3,1153,27,19,8976
+447,Yunus Akgün,Ailier Droit,23,7.0,9,17,2860,1,4,1180,35,37,8719
+448,Maxi Gómez,Avant-Centre,27,7.0,5,2,1994,7,6,2543,89,39,20448
+449,Brandon Vazquez,Avant-Centre,24,7.0,20,8,2976,11,2,1989,51,20,8706
+450,Petar Musa,Avant-Centre,25,7.0,12,4,2729,11,3,1111,56,13,10441
+451,Jordan,Avant-Centre,27,7.0,27,5,3166,5,3,1954,91,24,14513
+452,Levi García,Avant-Centre,25,7.0,8,6,2603,18,7,2697,56,37,16586
+453,Jesús Medina,Ailier Droit,26,7.0,1,2,780,11,8,2523,41,23,12809
+454,Krzysztof Piatek,Avant-Centre,28,7.0,7,1,1307,4,5,2140,109,26,21191
+455,Arnaud Nordin,Ailier Droit,25,7.0,6,5,2213,9,5,2481,37,15,12599
+456,Manuel Benson,Ailier Droit,26,7.0,6,8,2396,14,5,1985,38,40,12593
+457,Toni Martínez,Avant-Centre,26,7.0,7,0,1003,13,7,1960,77,22,12834
+458,Kasper Dolberg,Avant-Centre,25,7.0,7,2,1675,2,1,720,80,25,16134
+459,Nicolás Ibáñez,Avant-Centre,28,7.0,17,2,2994,23,1,3199,109,10,19477
+460,Ihlas Bebou,Avant-Centre,29,7.0,7,3,2196,7,1,1503,67,46,20752
+461,Arturo González,Ailier Gauche,28,7.0,5,8,2445,10,10,2684,49,30,19657
+462,Yussuf Poulsen,Avant-Centre,29,7.0,7,3,1475,4,2,604,107,73,26310
+463,Andy Delort,Avant-Centre,31,7.0,20,5,3044,9,1,1803,138,51,29140
+464,Michail Antonio,Avant-Centre,33,7.0,13,11,3921,14,5,2820,123,84,36356
+465,Thorgan Hazard,Ailier Gauche,30,7.0,6,1,1656,3,1,1103,87,96,27804
+466,Danny Welbeck,Avant-Centre,32,7.0,6,3,1550,7,4,2143,92,51,25034
+467,Dion Beljo,Avant-Centre,21,6.5,20,4,2936,12,5,2369,42,13,7970
+468,Stipe Biuk,Ailier Gauche,20,6.5,1,3,1877,5,3,3254,9,9,5854
+469,Osman Bukari,Ailier Droit,24,6.5,2,4,1042,15,10,2973,39,47,11505
+470,Danilo,Avant-Centre,24,6.5,15,5,1178,14,4,2057,88,18,10338
+471,Jan Thielmann,Ailier Droit,21,6.5,3,3,1490,2,5,1082,37,13,9090
+472,Martín Ojeda,Ailier Gauche,24,6.5,13,14,3858,4,5,1571,39,28,12029
+473,Rubén Vargas,Ailier Gauche,25,6.5,2,3,2064,3,6,1197,48,29,14493
+474,Carlos Júnior,Ailier Droit,27,6.5,29,4,3350,13,2,1921,86,19,16735
+475,Irfan Can Kahveci,Ailier Droit,28,6.5,4,8,1977,7,5,2323,48,47,23278
+476,Paulinho,Avant-Centre,30,6.5,14,8,3568,15,12,2502,137,57,28976
+477,Luca Langoni,Ailier Droit,21,6.0,7,1,1132,3,1,803,10,2,1935
+478,Ernest Nuamah,Ailier Gauche,19,6.0,2,0,447,15,4,2854,21,5,3570
+479,Álvaro Rodríguez,Avant-Centre,19,6.0,4,4,783,8,3,2259,12,7,3042
+480,Karim Konaté,Avant-Centre,19,6.0,10,0,1068,24,6,2199,39,8,3600
+481,Abdallah Sima,Ailier Droit,22,6.0,4,1,764,6,2,2045,31,11,5722
+482,Wilson Odobert,Ailier Droit,18,6.0,3,0,310,4,2,1764,7,2,2074
+483,Badredine Bouanani,Ailier Droit,18,6.0,2,4,658,4,4,1324,6,8,1982
+484,Luis Henrique,Ailier Gauche,21,6.0,1,1,1112,5,3,1805,8,14,5492
+485,Facundo Pellistri,Ailier Droit,21,6.0,0,0,751,0,1,280,5,6,4664
+486,Ander Barrenetxea,Ailier Gauche,21,6.0,1,2,745,3,1,927,12,6,5065
+487,Mohamed Bayo,Avant-Centre,25,6.0,14,5,2422,5,1,757,59,19,9265
+488,Ayase Ueda,Avant-Centre,24,6.0,14,2,1655,23,2,3340,70,7,9037
+489,Lázaro,Ailier Gauche,21,6.0,8,8,1753,6,0,764,14,9,2966
+490,Mohamed Daramy,Ailier Gauche,21,6.0,8,11,1872,9,7,3061,49,27,11533
+491,Nico Melamed,Ailier Gauche,22,6.0,1,1,1196,3,3,1527,19,8,7546
+492,Carlos Vinícius,Avant-Centre,28,6.0,7,7,1512,5,3,1375,82,35,11848
+493,Largie Ramazani,Ailier Gauche,22,6.0,9,1,2166,3,2,1484,32,15,8152
+494,Enzo Copetti,Avant-Centre,27,6.0,21,6,3580,5,1,1496,42,11,12530
+495,Michel-Ange Balikwisha,Ailier Gauche,22,6.0,5,5,2486,10,1,2963,25,12,8436
+496,Wilson Isidor,Avant-Centre,22,6.0,8,2,1478,10,5,1436,44,11,7925
+497,Sorba Thomas,Ailier Droit,24,6.0,3,16,4123,0,8,2850,11,29,13030
+498,Jacob Brown,Avant-Centre,25,6.0,14,5,3581,9,2,3070,42,24,16265
+499,Casper Tengstedt,Avant-Centre,23,6.0,30,15,3158,0,1,511,73,31,9203
+500,Mostafa Mohamed,Avant-Centre,25,6.0,8,5,1598,11,5,2952,70,20,14530
