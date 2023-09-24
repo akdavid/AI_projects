@@ -87,15 +87,18 @@ The different projects are listed below.
 - Regression models to estimate the price of a house in Bordeaux: [regression_prix_maisons_bordeaux](https://github.com/akdavid/AI_projects/tree/main/regression_prix_maisons_bordeaux)
     - Data exploration and visualization with Pandas, Seaborn, and Plotly
     - Data preparation for the machine learning models
-    - DNN model with Keras
-    - DNN model with PyTorch
+    - Dense neural nertwork model with Keras
+    - Dense neural nertwork model with PyTorch
     - Random Forest model with scikit-learn
 - Regression models to estimate the price of a football player: [regression_prix_footballeur](https://github.com/akdavid/AI_projects/tree/main/regression_prix_footballeur)
     - Webscraping with requests and BeautifulSoup
     - ...
-- Convolutional Neural Network (CNN) to recognize an animal: (comming soon!)
+- Convolutional Neural Network (CNN) to recognize an animal: [CNN_animals](https://github.com/akdavid/AI_projects/tree/main/CNN_animals)
     - Data scraping with a chrome extension for Google images
-- CNN to recognize a felidae by using transfer learning and fine-tuning: (comming soon!)
+    - ...
+- CNN to recognize a felidae by using transfer learning and fine-tuning: [CNN_felidae](https://github.com/akdavid/AI_projects/tree/main/CNN_felidae)
+    - Data scraping with a chrome extension for Google images
+    - ...
 
 _See the corresponding directories fore more informations._
 
