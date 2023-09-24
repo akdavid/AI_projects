@@ -84,13 +84,15 @@ The projects presented in this repo have been built using the following framewor
 
 The different projects are listed below.
 
-- Dense Neural Network (DNN) to estimate the price of a house in Bordeaux: [regression_prix_maisons_bordeaux](https://github.com/akdavid/AI_projects/tree/main/regression_prix_maisons_bordeaux)
+- Regression models to estimate the price of a house in Bordeaux: [regression_prix_maisons_bordeaux](https://github.com/akdavid/AI_projects/tree/main/regression_prix_maisons_bordeaux)
     - Data exploration and visualization with Pandas, Seaborn, and Plotly
     - Data preparation for the machine learning models
     - DNN model with Keras
     - DNN model with PyTorch
     - Random Forest model with scikit-learn
-- DNN to estimate the price of a football player: (comming soon!)
+- Regression models to estimate the price of a football player: [regression_prix_footballeur](https://github.com/akdavid/AI_projects/tree/main/regression_prix_footballeur)
+    - Webscraping with requests and BeautifulSoup
+    - ...
 - Convolutional Neural Network (CNN) to recognize an animal: (comming soon!)
     - Data scraping with a chrome extension for Google images
 - CNN to recognize a felidae by using transfer learning and fine-tuning: (comming soon!)
@@ -109,9 +111,9 @@ You can clone the entire repository to have all projects or get a single project
 
 To download a single folder you can use [download-directory](https://download-directory.github.io) or [DownGit](https://minhaskamal.github.io/DownGit) for example.
 
-In each project directory there is an _environment.yml_ file that you can use to create the appropriate conda environment. You thus need to install [miniconda](https://docs.conda.io/en/latest/miniconda.html) if you don't have it.
+In each project directory there is an _environment.yml_ file that you can use to create the appropriate conda environment. You thus need to install [miniconda](https://docs.conda.io/en/latest/miniconda.html) if you don't have it (or conda).
 
-To create a conda environment from the _environment.yml_ file you have to `cd` in the project's directory and the use the following:
+To create a conda environment from the _environment.yml_ file you have to `cd` in the project's directory and then use the following:
 ```console 
 conda env create -f environment.yml
 ```
@@ -127,8 +129,8 @@ Finally, activate the environment following the console prompt and run `jupyter 
 
 Here are some of my project ideas. The projects that are already done are detailed in the section ['The Projects'](#the-projects). 
 
-- [x] Dense Neural Network (DNN) to estimate the price of a house in Bordeaux
-- [x] DNN to estimate the price of a football player
+- [x] Regression models to estimate the price of a house in Bordeaux
+- [x] Regression models to estimate the price of a football player
 - [x] Convolutional Neural Network (CNN) to recognize an animal
 - [x] CNN to recognize a felidae by using transfer learning and fine-tuning
 - [ ] Recommendation for access to a bank loan of a given amount (classification) / Estimate of authorized loan amount (regression)
