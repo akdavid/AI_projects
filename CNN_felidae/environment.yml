@@ -1,0 +1,12 @@
+name: CNN-felidae
+channels:
+    - conda-forge
+dependencies:
+    - python=3.9
+    - pip
+    - pip:
+      - tensorflow
+      - Scikit-learn
+      - Matplotlib
+      - Pandas
+      - Jupyterlab
