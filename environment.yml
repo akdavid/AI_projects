@@ -1,0 +1,20 @@
+name: AI-projects
+channels:
+    - pytorch
+    - conda-forge
+dependencies:
+    - python=3.9
+    - pip
+    - pytorch 
+    - torchvision
+    - pip:
+      - tensorflow
+      - Scikit-learn 
+      - Scikit-image
+      - Matplotlib 
+      - plotly 
+      - seaborn 
+      - Pandas 
+      - requests
+      - bs4
+      - Jupyterlab 

@@ -111,8 +111,7 @@ _See the corresponding directories fore more informations._
 ## Getting Started
 
 You can clone the entire repository to have all projects or get a single project by downloading the corresponding folder. 
-
-To download a single folder you can use [download-directory](https://download-directory.github.io) or [DownGit](https://minhaskamal.github.io/DownGit) for example.
+To download a folder you can use [download-directory](https://download-directory.github.io) or [DownGit](https://minhaskamal.github.io/DownGit) for example.
 
 In each project directory there is an _environment.yml_ file that you can use to create the appropriate conda environment. You thus need to install [miniconda](https://docs.conda.io/en/latest/miniconda.html) if you don't have it (or conda).
 
@@ -122,6 +121,10 @@ conda env create -f environment.yml
 ```
 
 Finally, activate the environment following the console prompt and run `jupyter lab` to use the Notebooks.
+
+**Note**
+> If you want a single environment for all the projects you can use the  _environment.yml_ file of the main directory.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
