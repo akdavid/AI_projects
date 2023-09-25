@@ -1,0 +1,13 @@
+name: CNN-animals
+channels:
+    - conda-forge
+dependencies:
+    - python=3.9
+    - pip
+    - pip:
+      - tensorflow
+      - Scikit-learn
+      - Scikit-image
+      - Matplotlib
+      - Pandas
+      - Jupyterlab
