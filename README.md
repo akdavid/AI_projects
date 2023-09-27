@@ -109,7 +109,7 @@ The different projects are listed below.
     - Fine-tuning: Un-freeze the top layers, continue training the model
     - Confusion matrix and predictions
 
-_See the corresponding directories fore more informations._
+<!-- _See the corresponding directories fore more informations._ -->
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
