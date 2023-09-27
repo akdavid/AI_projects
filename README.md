@@ -92,13 +92,22 @@ The different projects are listed below.
     - Random Forest model with scikit-learn
 - Regression models to estimate the price of a football player: [regression_prix_footballeur](https://github.com/akdavid/AI_projects/tree/main/regression_prix_footballeur)
     - Webscraping with requests and BeautifulSoup
-    - ...
+    - Visualizations with Seaborn and Plotly
+    - 3 dense neural network models
+    - 1 random forest model
 - Convolutional Neural Network (CNN) to recognize an animal: [CNN_animals](https://github.com/akdavid/AI_projects/tree/main/CNN_animals)
     - Data scraping with a chrome extension for Google images
-    - ...
+    - Preparation of data: resizing and enhancement
+    - Callbacks: save the models and create logs for TensorBoard
+    - Data augmentation
+    - Create many convolutional neural network models with Keras
+    - Show a report of the different models
 - CNN to recognize a felidae by using transfer learning and fine-tuning: [CNN_felidae](https://github.com/akdavid/AI_projects/tree/main/CNN_felidae)
     - Data scraping with a chrome extension for Google images
-    - ...
+    - Preparation of data: resize the images and use data augmentation
+    - Transfer learning from _MobileNetV2_: create the base model, freeze the convolutional base, add a classification head, train the model
+    - Fine-tuning: Un-freeze the top layers, continue training the model
+    - Confusion matrix and predictions
 
 _See the corresponding directories fore more informations._
 
