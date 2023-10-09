@@ -100,8 +100,10 @@ This project have been built using the following frameworks and libraries:
 * [![Jupyter][Jupyter]][Jupyter-url]
 * [![TensorFlow][TensorFlow]][TensorFlow-url]
 * [![Keras][Keras]][Keras-url]
+* [![scikit-learn][scikit-learn]][scikit-learn-url]
 * [![Pandas][Pandas]][Pandas-url]
 * [![NumPy][NumPy]][NumPy-url]
+* [![Matplotlib][Matplotlib]][Matplotlib-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

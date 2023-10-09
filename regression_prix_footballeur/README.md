@@ -60,7 +60,7 @@
 
 This project is part of the [AI Projects](http://github.com/akdavid/AI_projects) repository.
 
-## Objectives:
+### Objectives:
 
  - Predict the price of a football player from statistics retrieved from the Internet. 
  - Understand the principle and architecture of regression with a dense neural network and a random forest model.
@@ -68,7 +68,7 @@ This project is part of the [AI Projects](http://github.com/akdavid/AI_projects)
 Data are obtained via the notebook **data_scraping.ipynb**. 
 
 
-## What we're going to do:
+### What we're going to do:
 
  - Recover and clean data
  - Explore and visualize data
