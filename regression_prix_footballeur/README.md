@@ -31,7 +31,139 @@
 </div>
 
 
-Remaining of the README to write...
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#objectives">Objectives</a></li>
+        <li><a href="#what-we-are-going-to-do">What we are going to do</a></li>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#perspectives">Perspectives</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+This project is part of the [AI Projects](http://github.com/akdavid/AI_projects) repository.
+
+## Objectives:
+
+ - Predict the price of a football player from statistics retrieved from the Internet. 
+ - Understand the principle and architecture of regression with a dense neural network and a random forest model.
+
+Data are obtained via the notebook **data_scraping.ipynb**. 
+
+
+## What we're going to do:
+
+ - Recover and clean data
+ - Explore and visualize data
+ - Prepare data for our machine learning models
+ - Build some 'DNN' models with Keras
+   - Training and saving the model
+   - Restore the saved model
+   - Evaluate the model
+   - Make predictions
+ - Building a Random Forest model with sklearn
+   - Training the model
+   - Evaluating the model
+   - Making predictions
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+### Built With
+
+This project have been built using the following frameworks and libraries: 
+* [![Python][Python]][Python-url]
+* [![Jupyter][Jupyter]][Jupyter-url]
+* [![TensorFlow][TensorFlow]][TensorFlow-url]
+* [![Keras][Keras]][Keras-url]
+* [![scikit-learn][scikit-learn]][scikit-learn-url]
+* [![Pandas][Pandas]][Pandas-url]
+* [![NumPy][NumPy]][NumPy-url]
+* [![Matplotlib][Matplotlib]][Matplotlib-url]
+* [![Plotly][Plotly]][Plotly-url]
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+You can get this project by downloading the [directory](https://github.com/akdavid/AI_projects/tree/main/regression_prix_footballeur) using [download-directory](https://download-directory.github.io) or [DownGit](https://minhaskamal.github.io/DownGit) for example.
+
+In this directory there is an _environment.yml_ file that you can use to create the appropriate conda environment. If so, you need to install [miniconda](https://docs.conda.io/en/latest/miniconda.html) if you don't have it.
+
+To create a conda environment from the _environment.yml_ file you have to `cd` in the project's directory and then use the following:
+```console 
+conda env create -f environment.yml
+```
+
+Finally, activate the environment with `conda activate reg-prix-football` and run `jupyter lab` to use the Notebook.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- PERSPECTIVES -->
+## Perspectives
+
+- Keep more features to improve the models.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See [LICENSE.txt](./LICENSE.txt) for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+## Contact
+
+[Anthony DAVID](https://anthonydavid3.wordpress.com) - [https://www.linkedin.com/in/anthony-david-ad28/](https://www.linkedin.com/in/anthony-david-ad28/) - anthony.david.phy@gmail.com
+
+Repository Link: [https://github.com/akdavid/AI_projects](https://github.com/akdavid/AI_projects)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+I would like to thank the authors of the following resources who helped me complete this project:
+
+* [Formation Introduction au Deep Learning (FIDLE)](https://fidle.cnrs.fr)
+* [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
